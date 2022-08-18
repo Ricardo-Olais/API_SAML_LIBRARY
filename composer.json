@@ -1,0 +1,19 @@
+{
+    "name": "samlipu/sso",
+    "description": "Liber\u0000a para integrar sso en sistemas internos de organizaci\u0000n",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Samlipu\\Sso\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ricardo Olais",
+            "email": "r.hernandez@lidcorp.mx"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
